@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Félix L. Vásquez V. I'm a licence in Computer Science and front end developer. Welcome to my GitHub profile.</p>
+<p align="left">My name is Félix L. Vásquez V. I'm a graduate in Computer Science and front end developer. Welcome to my GitHub profile.</p>
 
 ###
 
